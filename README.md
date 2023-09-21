@@ -1,5 +1,5 @@
 # RIFE-video-interpolator-colab
-Make your videos smoother using RIFE on google colab
+Make your videos smoother by increasing FPS using RIFE on google colab
 
 ## Colab
 
@@ -9,3 +9,6 @@ Make your videos smoother using RIFE on google colab
 
 ## Main Repo
 https://github.com/megvii-research/ECCV2022-RIFE
+
+## Support me
+https://paypal.me/yuvraj108c
